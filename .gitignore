@@ -1,0 +1,6 @@
+__pycache__
+zomato_PPD.csv
+locations.csv
+env
+random_forest.pkl
+model.ipynb
